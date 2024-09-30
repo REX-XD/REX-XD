@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm REXX-XD</h1>
-<h3 align="center">A passionate frontend developer from INDONESIA</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rex-xd&label=Profile%20views&color=0e75b6&style=flat" alt="rex-xd" /> </p>
 
-- 🔭 I’m currently working on **FACEBOOK+INSTAGRAM**
+- 🔭 I’m currently working on **Facebook+Instagram**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **rexx-xd@gmail.com**
 
